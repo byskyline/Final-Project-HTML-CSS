@@ -1508,6 +1508,7 @@ hr {
 }
 .item .item-wrap img {
 	vertical-align: bottom;
+    border-radius: 20%;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
